@@ -1,0 +1,14 @@
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+D:\IINFNET 2 PERIODO\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.AssemblyReference.cache
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.CoreCompileInputs.cache
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
+D:\IINFNET 2 PERIODO\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
